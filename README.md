@@ -12,5 +12,3 @@ Hope,I'll be the expert in github!
  -  📫 How to reach me if you'd like to teach me -> instagram @iza194.84
 
 ##### -  day 7: i have downloaded java and intellij,now just watching videos from youtube,tutorials,it is so hard to learn sth by yourself,without any teacher,but i wont give up,i wanna buy courses,hahah. one thing i know properly is now to make a text here bold and how to minimize its size,also how to commit your work
-
-git init
